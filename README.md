@@ -17,3 +17,4 @@ Aplicación de escritorio en **Java Swing** creada en **NetBeans IDE** para el r
   - Cantidad total de empleados registrados.
   - Promedio salarial formateado.
   - Empleado con mayor salario.
+
